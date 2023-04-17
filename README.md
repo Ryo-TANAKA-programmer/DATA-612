@@ -54,7 +54,7 @@ https://github.com/CSSEGISandData/COVID-19
 
 
 
-Variables
+#Variables
 
 Fragile states index
 Ranking of state fragility
@@ -67,7 +67,7 @@ Freedom of Expression and Belief = D
 Civil Liberties = CL
 Selecting 2022 data only
 
-Analysis
+#Analysis
 Descriptive statistics
 FIW
 
