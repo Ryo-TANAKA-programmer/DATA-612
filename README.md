@@ -3,13 +3,19 @@
 ### **Suyash Pasi, Conner Parker, Ryo Tanaka**
 
 [Fragile States Index (2022)](https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/)
+
 [Freedom House](https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/)
+
 [COVID-19 Data Repository](https://doi.org/10.1016/S1473-3099(20)30120-1)
 
 https://github.com/CSSEGISandData/COVID-19
+
 Country Data (includes population, we can merge this with the dataset below?)
+
 CountryData <- read.csv("time_series_covid19_vaccine_doses_admin_global.csv")
+
 Vaccine Data (3-9-2023 is the most recent data, maybe we can erase the rest?)
+
 VaxData <- read.csv("time_series_covid19_vaccine_global.csv")
 
 
@@ -36,8 +42,11 @@ These datasets come in the form of either CSV, Excel, or Google Spreadsheets. Wi
 
 ### Data Sources:
 [The CIRI Human Rights Dataset](https://dataverse.harvard.edu/dataverse/cirihumanrightsdata)
+
 [Freedom House](https://docs.google.com/spreadsheets/d/12fmXLRZY9FvJDMYTgtNOUkGR_VamVyx9/edit?usp=drive_web&ouid=116956964118385825390&rtpof=true)
+
 [COVID-19 Data Repository](https://doi.org/10.1016/S1473-3099(20)30120-1) 
+
 [COVID-19 Data Another Repository](https://github.com/CSSEGISandData/COVID-19)
 
 ## Variables
@@ -54,5 +63,6 @@ Civil Liberties = CL
 Selecting 2022 data only
 
 ## Analysis
+
 Descriptive statistics
 FIW
