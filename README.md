@@ -56,7 +56,3 @@ Selecting 2022 data only
 ## Analysis
 Descriptive statistics
 FIW
-
-
-
-
