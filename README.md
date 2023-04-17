@@ -1,10 +1,6 @@
 ## DATA-612 Governments Analysis Project
 
-
-#### This proposal will enable me to give feedback on whether your planned approach is suitable to demonstrate your knowledge of the concepts we’ve learned in class. The more information you give me, the easier it will be to determine whether you are on track
-
-Governments Analysis Project
-Suyash Pasi, Conner Parker, Ryo Tanaka
+### **Suyash Pasi, Conner Parker, Ryo Tanaka***
 
 Submit a written project plan prior to the start of class on 3/6 that includes the following information
 What data you plan to use (links to sources are helpful)
