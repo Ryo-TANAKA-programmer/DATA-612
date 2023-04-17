@@ -2,6 +2,8 @@
 
 ### **Suyash Pasi, Conner Parker, Ryo Tanaka**
 
+[Link Text](Link URL){:target="_blank"}
+
 [Fragile States Index (2022)](https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/){: target = " _blank"}
 
 <a href="[https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/](https://docs.google.com/spreadsheets/d/12fmXLRZY9FvJDMYTgtNOUkGR_VamVyx9/edit?usp=drive_web&ouid=116956964118385825390&rtpof=true)" target=_blank>Freedom House</a>
