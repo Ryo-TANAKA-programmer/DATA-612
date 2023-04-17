@@ -1,0 +1,67 @@
+---
+title: "DATA_612_Project_0417"
+author: "Ryo Tanaka"
+date: "2023 04 17"
+output: html_document
+---
+
+Setting up
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Loading necessary libraries
+
+```{r}
+library(tidyverse)
+```
+Loading dataset
+```{r}
+fiw <- read_csv("fiw.csv")
+```
+Renaming columns
+
+```{r}
+colnames(fiw)[1] = "country/territory"
+colnames(fiw)[2] = "region"
+colnames(fiw)[3] = "c/t"
+colnames(fiw)[4] = "year"
+colnames(fiw)[5] = "status"
+colnames(fiw)[7] = "rights_1"
+colnames(fiw)[8] = "rights_2"
+```
+
+deleting the 1st row and 6th column
+
+```{r}
+fiw <- fiw[-1,]
+fiw <- fiw %>% 
+  select(-"...6")
+```
+
+Converting below variables to data.frame to numeric
+
+```{r}
+fiw <- fiw %>% 
+  mutate(rights_1 = as.numeric(rights_1),
+         rights_2 = as.numeric(rights_2))
+```
+
+
+Descriptive Statistics
+
+```{r}
+fiw %>% 
+  summarize(mean_rights1 = mean(rights_1,na.rm = TRUE),
+            mean_rights2 = mean(rights_2,na.rm = TRUE),
+            min_rights1 = min(rights_1,na.rm = TRUE),
+            min_rights2 = min(rights_2,na.rm = TRUE),
+            max_rights1 = max(rights_1,na.rm = TRUE),
+            max_rights2 = max(rights_2,na.rm = TRUE),
+            median_rights1 = median(rights_1,na.rm = TRUE),
+            median_rights2 = median(rights_2,na.rm = TRUE))
+```
+
+
+
