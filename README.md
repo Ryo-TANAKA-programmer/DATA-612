@@ -2,14 +2,13 @@
 
 ### **Suyash Pasi, Conner Parker, Ryo Tanaka**
 
-Submit a written project plan prior to the start of class on 3/6 that includes the following information
-What data you plan to use (links to sources are helpful)
-Fragile States Index (2022)
-https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/ 
-Freedom House
-https://docs.google.com/spreadsheets/d/12fmXLRZY9FvJDMYTgtNOUkGR_VamVyx9/edit?usp=drive_web&ouid=116956964118385825390&rtpof=true
+<a href="https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/" target=_blank>Fragile States Index (2022)</a>
+
+<a href="[https://fragilestatesindex.org/2022/07/13/fragile-states-index-2022-annual-report/](https://docs.google.com/spreadsheets/d/12fmXLRZY9FvJDMYTgtNOUkGR_VamVyx9/edit?usp=drive_web&ouid=116956964118385825390&rtpof=true)" target=_blank>Freedom House</a>
+
 COVID-19 Data Repository
 https://doi.org/10.1016/S1473-3099(20)30120-1 
+
 https://github.com/CSSEGISandData/COVID-19
 Country Data (includes population, we can merge this with the dataset below?)
 CountryData <- read.csv("time_series_covid19_vaccine_doses_admin_global.csv")
