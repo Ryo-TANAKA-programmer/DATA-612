@@ -1,0 +1,25 @@
+---
+title: "Final Project - Statistical Programming in R"
+author: "Suyash Pasi"
+date: "2023-04-17"
+output: html_document
+---
+
+# Read and load csv file
+```{r}
+fsi <- read_csv("fsi-2022.csv")
+```
+
+# Select relevant variables 
+
+```{r}
+fsi <- fsi %>% 
+  select("Country", "Year", "P1: State Legitimacy")
+```
+
+
+```{r}
+fsi %>% 
+  summarize(P1: State Legitimacy)
+```
+
