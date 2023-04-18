@@ -1,0 +1,211 @@
+"","country/territory","region","c/t","year","status","rights_1","rights_2"
+"1","Abkhazia","Eurasia","t","2022","PF",8,23
+"2","Afghanistan","Asia","c","2022","NF",4,9
+"3","Albania","Europe","c","2022","PF",13,39
+"4","Algeria","Africa","c","2022","NF",6,22
+"5","Andorra","Europe","c","2022","F",14,55
+"6","Angola","Africa","c","2022","NF",7,20
+"7","Antigua and Barbuda","Americas","c","2022","F",15,52
+"8","Argentina","Americas","c","2022","F",15,49
+"9","Armenia","Eurasia","c","2022","PF",9,32
+"10","Australia","Asia","c","2022","F",15,56
+"11","Austria","Europe","c","2022","F",14,56
+"12","Azerbaijan","Eurasia","c","2022","NF",2,7
+"13","Bahamas","Americas","c","2022","F",15,53
+"14","Bahrain","Middle East","c","2022","NF",2,10
+"15","Bangladesh","Asia","c","2022","PF",6,24
+"16","Barbados","Americas","c","2022","F",16,57
+"17","Belarus","Eurasia","c","2022","NF",1,6
+"18","Belgium","Europe","c","2022","F",15,57
+"19","Belize","Americas","c","2022","F",16,53
+"20","Benin","Africa","c","2022","PF",14,42
+"21","Bhutan","Asia","c","2022","PF",9,32
+"22","Bolivia","Americas","c","2022","PF",14,39
+"23","Bosnia and Herzegovina","Europe","c","2022","PF",10,34
+"24","Botswana","Africa","c","2022","F",12,44
+"25","Brazil","Americas","c","2022","F",13,42
+"26","Brunei","Asia","c","2022","NF",6,21
+"27","Bulgaria","Europe","c","2022","F",13,46
+"28","Burkina Faso","Africa","c","2022","PF",11,30
+"29","Burundi","Africa","c","2022","NF",4,10
+"30","Cabo Verde","Africa","c","2022","F",16,54
+"31","Cambodia","Asia","c","2022","NF",7,19
+"32","Cameroon","Africa","c","2022","NF",4,9
+"33","Canada","Americas","c","2022","F",15,58
+"34","Central African Republic","Africa","c","2022","NF",3,4
+"35","Chad","Africa","c","2022","NF",6,14
+"36","Chile","Americas","c","2022","F",16,56
+"37","China","Asia","c","2022","NF",1,11
+"38","Colombia","Americas","c","2022","PF",12,35
+"39","Comoros","Africa","c","2022","PF",8,26
+"40","Congo (Brazzaville)","Africa","c","2022","NF",6,15
+"41","Congo (Kinshasa)","Africa","c","2022","NF",7,15
+"42","Costa Rica","Americas","c","2022","F",16,53
+"43","Cote d'Ivoire","Africa","c","2022","PF",10,30
+"44","Crimea","Eurasia","t","2022","NF",2,9
+"45","Croatia","Europe","c","2022","F",13,49
+"46","Cuba","Americas","c","2022","NF",4,11
+"47","Cyprus","Europe","c","2022","F",15,55
+"48","Czech Republic","Europe","c","2022","F",14,55
+"49","Denmark","Europe","c","2022","F",16,57
+"50","Djibouti","Africa","c","2022","NF",6,19
+"51","Dominica","Americas","c","2022","F",15,56
+"52","Dominican Republic","Americas","c","2022","PF",14,41
+"53","Eastern Donbas","Eurasia","t","2022","NF",2,5
+"54","Ecuador","Americas","c","2022","F",13,40
+"55","Egypt","Africa","c","2022","NF",3,12
+"56","El Salvador","Americas","c","2022","PF",11,33
+"57","Equatorial Guinea","Africa","c","2022","NF",2,5
+"58","Eritrea","Africa","c","2022","NF",1,2
+"59","Estonia","Europe","c","2022","F",16,56
+"60","Eswatini","Africa","c","2022","NF",5,16
+"61","Ethiopia","Africa","c","2022","NF",4,11
+"62","Fiji","Asia","c","2022","PF",11,35
+"63","Finland","Europe","c","2022","F",16,60
+"64","France","Europe","c","2022","F",14,51
+"65","Gabon","Africa","c","2022","NF",7,18
+"66","Gaza Strip","Middle East","t","2022","NF",4,8
+"67","Georgia","Eurasia","c","2022","PF",9,36
+"68","Germany","Europe","c","2022","F",14,55
+"69","Ghana","Africa","c","2022","F",14,45
+"70","Greece","Europe","c","2022","F",14,50
+"71","Grenada","Americas","c","2022","F",15,52
+"72","Guatemala","Americas","c","2022","PF",11,30
+"73","Guinea","Africa","c","2022","NF",10,24
+"74","Guinea-Bissau","Africa","c","2022","PF",10,26
+"75","Guyana","Americas","c","2022","F",15,43
+"76","Haiti","Americas","c","2022","NF",9,22
+"77","Honduras","Americas","c","2022","PF",9,26
+"78","Hong Kong","Asia","t","2022","PF",8,33
+"79","Hungary","Europe","c","2022","PF",10,43
+"80","Iceland","Europe","c","2022","F",15,57
+"81","India","Asia","c","2022","PF",9,33
+"82","Indian Kashmir","Asia","t","2022","NF",6,20
+"83","Indonesia","Asia","c","2022","PF",9,29
+"84","Iran","Middle East","c","2022","NF",2,10
+"85","Iraq","Middle East","c","2022","NF",4,13
+"86","Ireland","Europe","c","2022","F",16,58
+"87","Israel","Middle East","c","2022","F",12,42
+"88","Italy","Europe","c","2022","F",15,54
+"89","Jamaica","Americas","c","2022","F",15,46
+"90","Japan","Asia","c","2022","F",15,56
+"91","Jordan","Middle East","c","2022","NF",7,22
+"92","Kazakhstan","Eurasia","c","2022","NF",4,18
+"93","Kenya","Africa","c","2022","PF",10,29
+"94","Kiribati","Asia","c","2022","F",16,56
+"95","Kosovo","Europe","c","2022","PF",9,31
+"96","Kuwait","Middle East","c","2022","PF",6,23
+"97","Kyrgyzstan","Eurasia","c","2022","NF",10,23
+"98","Laos","Asia","c","2022","NF",3,11
+"99","Latvia","Europe","c","2022","F",14,51
+"100","Lebanon","Middle East","c","2022","PF",10,29
+"101","Lesotho","Africa","c","2022","PF",12,36
+"102","Liberia","Africa","c","2022","PF",11,33
+"103","Libya","Africa","c","2022","NF",4,8
+"104","Liechtenstein","Europe","c","2022","F",16,57
+"105","Lithuania","Europe","c","2022","F",15,51
+"106","Luxembourg","Europe","c","2022","F",16,59
+"107","Madagascar","Africa","c","2022","PF",11,34
+"108","Malawi","Africa","c","2022","PF",13,37
+"109","Malaysia","Asia","c","2022","PF",8,30
+"110","Maldives","Asia","c","2022","PF",3,21
+"111","Mali","Africa","c","2022","NF",10,24
+"112","Malta","Europe","c","2022","F",14,54
+"113","Marshall Islands","Asia","c","2022","F",16,55
+"114","Mauritania","Africa","c","2022","PF",9,21
+"115","Mauritius","Africa","c","2022","F",14,50
+"116","Mexico","Americas","c","2022","PF",12,33
+"117","Micronesia","Asia","c","2022","F",16,55
+"118","Moldova","Eurasia","c","2022","PF",12,35
+"119","Monaco","Europe","c","2022","F",16,57
+"120","Mongolia","Asia","c","2022","F",14,48
+"121","Montenegro","Europe","c","2022","PF",12,41
+"122","Morocco","Africa","c","2022","PF",7,24
+"123","Mozambique","Africa","c","2022","PF",9,29
+"124","Myanmar","Asia","c","2022","NF",3,9
+"125","Nagorno-Karabakh","Eurasia","t","2022","PF",7,20
+"126","Namibia","Africa","c","2022","F",14,46
+"127","Nauru","Asia","c","2022","F",13,43
+"128","Nepal","Asia","c","2022","PF",10,32
+"129","Netherlands","Europe","c","2022","F",16,58
+"130","New Zealand","Asia","c","2022","F",16,59
+"131","Nicaragua","Americas","c","2022","NF",5,18
+"132","Niger","Africa","c","2022","PF",10,28
+"133","Nigeria","Africa","c","2022","PF",9,23
+"134","North Korea","Asia","c","2022","NF",0,3
+"135","North Macedonia","Europe","c","2022","PF",12,39
+"136","Northern Cyprus","Europe","t","2022","F",15,50
+"137","Norway","Europe","c","2022","F",16,60
+"138","Oman","Middle East","c","2022","NF",5,18
+"139","Pakistan","Asia","c","2022","PF",6,22
+"140","Pakistani Kashmir","Asia","t","2022","NF",6,20
+"141","Palau","Asia","c","2022","F",16,55
+"142","Panama","Americas","c","2022","F",15,48
+"143","Papua New Guinea","Asia","c","2022","PF",14,39
+"144","Paraguay","Americas","c","2022","PF",12,37
+"145","Peru","Americas","c","2022","F",15,42
+"146","Philippines","Asia","c","2022","PF",11,30
+"147","Poland","Europe","c","2022","F",13,47
+"148","Portugal","Europe","c","2022","F",16,56
+"149","Qatar","Middle East","c","2022","NF",7,18
+"150","Romania","Europe","c","2022","F",13,48
+"151","Russia","Eurasia","c","2022","NF",3,14
+"152","Rwanda","Africa","c","2022","NF",3,14
+"153","Samoa","Asia","c","2022","F",14,51
+"154","San Marino","Europe","c","2022","F",15,55
+"155","Sao Tome and Principe","Africa","c","2022","F",15,49
+"156","Saudi Arabia","Middle East","c","2022","NF",2,6
+"157","Senegal","Africa","c","2022","PF",13,39
+"158","Serbia","Europe","c","2022","PF",12,41
+"159","Seychelles","Africa","c","2022","F",14,45
+"160","Sierra Leone","Africa","c","2022","PF",12,37
+"161","Singapore","Asia","c","2022","PF",7,28
+"162","Slovakia","Europe","c","2022","F",15,53
+"163","Slovenia","Europe","c","2022","F",14,52
+"164","Solomon Islands","Asia","c","2022","F",16,49
+"165","Somalia","Africa","c","2022","NF",3,6
+"166","Somaliland","Africa","t","2022","PF",8,27
+"167","South Africa","Africa","c","2022","F",15,46
+"168","South Korea","Asia","c","2022","F",14,50
+"169","South Ossetia","Eurasia","t","2022","NF",3,9
+"170","South Sudan","Africa","c","2022","NF",2,4
+"171","Spain","Europe","c","2022","F",14,53
+"172","Sri Lanka","Asia","c","2022","PF",8,32
+"173","St. Kitts and Nevis","Americas","c","2022","F",16,54
+"174","St. Lucia","Americas","c","2022","F",15,54
+"175","St. Vincent and the Grenadines","Americas","c","2022","F",15,55
+"176","Sudan","Africa","c","2022","NF",5,10
+"177","Suriname","Americas","c","2022","F",15,45
+"178","Sweden","Europe","c","2022","F",16,60
+"179","Switzerland","Europe","c","2022","F",15,57
+"180","Syria","Middle East","c","2022","NF",3,4
+"181","Taiwan","Asia","c","2022","F",16,56
+"182","Tajikistan","Eurasia","c","2022","NF",1,8
+"183","Tanzania","Africa","c","2022","PF",7,22
+"184","Thailand","Asia","c","2022","NF",6,24
+"185","The Gambia","Africa","c","2022","PF",8,26
+"186","Tibet","Asia","t","2022","NF",0,3
+"187","Timor-Leste","Asia","c","2022","F",14,39
+"188","Togo","Africa","c","2022","PF",9,27
+"189","Tonga","Asia","c","2022","F",14,49
+"190","Transnistria","Eurasia","t","2022","NF",4,12
+"191","Trinidad and Tobago","Americas","c","2022","F",16,49
+"192","Tunisia","Africa","c","2022","PF",12,38
+"193","Turkey","Europe","c","2022","NF",5,16
+"194","Turkmenistan","Eurasia","c","2022","NF",0,2
+"195","Tuvalu","Asia","c","2022","F",16,56
+"196","Uganda","Africa","c","2022","NF",8,23
+"197","Ukraine","Eurasia","c","2022","PF",11,35
+"198","United Arab Emirates","Middle East","c","2022","NF",3,12
+"199","United Kingdom","Europe","c","2022","F",14,54
+"200","United States","Americas","c","2022","F",14,51
+"201","Uruguay","Americas","c","2022","F",16,57
+"202","Uzbekistan","Eurasia","c","2022","NF",3,9
+"203","Vanuatu","Asia","c","2022","F",14,49
+"204","Venezuela","Americas","c","2022","NF",6,13
+"205","Vietnam","Asia","c","2022","NF",3,16
+"206","West Bank","Middle East","t","2022","NF",6,19
+"207","Western Sahara","Africa","t","2022","NF",3,7
+"208","Yemen","Middle East","c","2022","NF",2,8
+"209","Zambia","Africa","c","2022","PF",8,30
+"210","Zimbabwe","Africa","c","2022","NF",7,17
